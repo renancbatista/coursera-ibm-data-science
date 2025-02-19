@@ -20,8 +20,6 @@ O repositório está organizado da seguinte forma:
 
 ```
 /
-├── notebooks/               # Jupyter Notebooks com exemplos e exercícios
-├── datasets/                # Conjuntos de dados utilizados nos estudos
 ├── projects/                # Projetos práticos desenvolvidos durante o curso
 ├── notes/                   # Anotações e resumos das aulas
 ├── scripts/                 # Scripts em Python ou outras linguagens
