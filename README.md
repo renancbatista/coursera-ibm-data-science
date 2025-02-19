@@ -39,7 +39,7 @@ O repositório está organizado da seguinte forma:
 
 1. Clone o repositório para sua máquina local:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git@github.com:renancbatista/coursera-ibm-data-science.git
    ```
 2. Navegue pelas pastas para acessar os materiais desejados.
 3. Abra os notebooks no Jupyter Notebook ou em outra ferramenta compatível.
